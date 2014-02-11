@@ -1,0 +1,22 @@
+{
+  "name": "coffeescript-namespace",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jgrowl/coffeescript-namespace",
+  "authors": [
+    "Jonathan Rowlands <jonrowlands83@gmail.com>"
+  ],
+  "description": "Simple coffeescript namespace",
+  "main": "build/coffeescript-namespace.min.js",
+  "keywords": [
+    "coffeescript",
+    "namespace"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
