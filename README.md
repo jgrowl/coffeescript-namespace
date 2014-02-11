@@ -6,7 +6,7 @@ Simple coffeescript namespace
 As described on the [coffeescript wiki](https://github.com/jashkenas/coffee-script/wiki/FAQ)
 
 # Usage:
-#
+```coffeescript
 namespace 'Hello.World', (exports) ->
   # `exports` is where you attach namespace members
   exports.hi = -> console.log 'Hi World!'
