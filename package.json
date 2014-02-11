@@ -2,7 +2,7 @@
   "name": "devisejs",
   "version": "0.1.0",
   "description": "Simple coffeescript namespace",
-  "main": "dist/coffeescript-namespace.js",
+  "main": "build/coffeescript-namespace.min.js",
   "scripts": {
     "test": "gulp test"
   },
